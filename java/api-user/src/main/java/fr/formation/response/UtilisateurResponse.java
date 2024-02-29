@@ -1,7 +1,5 @@
 package fr.formation.response;
 
-import java.time.LocalDate;
-
 import lombok.Builder;
 import lombok.Getter;
 import lombok.Setter;
